@@ -1,0 +1,7 @@
+.height-600 {
+    height: 800px;
+}
+
+.mainSlider {
+    height: calc(100vh - 76px);
+}
